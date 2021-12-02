@@ -2,3 +2,5 @@ numpy
 Pillow
 scipy
 tensorflow
+jupyterlab
+matplotlib
